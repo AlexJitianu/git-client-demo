@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_2bh_hl5_qf">
   <title>Introduction - yyyyy-zzz</title>
-  <shortdesc>A short description</shortdesc>
+  <shortdesc>A short description<i>An intro.</i></shortdesc>
   <body>
     <p>xxxx Welcome to Syncro mobile phone user guide.</p>
     <p>New para</p>
