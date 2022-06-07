@@ -4,7 +4,7 @@
     <title>Syncro Phone User Guide</title>
     <topicref href="topics/gettingStarted.dita" collection-type="sequence">
         <topicref href="topics/introduction.dita"/>
-        <topicref href="topics/Specifications-renamed-again.dita"/>
+        <topicref href="topics/Specifications.dita"/>
         <topicref href="tasks/insertBattery.dita"/>
         <topicref href="tasks/removingBattery.dita"/>
         <topicref href="tasks/insertSim.dita"/>
