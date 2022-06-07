@@ -9,7 +9,7 @@
                 off.</p>
         </context>
         <steps>
-            <step id="firstStep">
+            <step id="firstStep-x">
                 <cmd>Remove the back cover. </cmd>
             </step>
             <step id="lastStep">
