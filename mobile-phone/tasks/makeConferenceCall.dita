@@ -7,8 +7,8 @@
         procedure.</shortdesc>
     <taskbody>
         <context>
-            <p>Before starting, make sure that your <term>SIM card</term> is enabled for conference
-                calls service.</p>
+            <p>Before starting, make <ph keyref="product"/> sure that your <term>SIM card</term> is
+                enabled for conference calls service.</p>
         </context>
         <steps>
             <step>
