@@ -10,8 +10,22 @@
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
+                        <String>extensions.update.sites</String>
+                        <String-array>
+                            <String>https://www.oxygenxml.com/InstData/Addons/default/updateSite.xml</String>
+                            <String>https://www.oxygenxml.com/InstData/Addons/community/updateSite.xml</String>
+                            <String>file:/C:/Users/alex_jitianu/Downloads/target/target/update_site.xml</String>
+                            <String>http://devel-new-addons.sync.ro/%7Etest/oxygen-addons/InstData/Addons/default/updateSite.xml</String>
+                            <String>http://software-archive.sync.ro/InstData/Addons/default/updateSite.xml</String>
+                            <String>file:/C:/Users/alex_jitianu/Downloads/com-oxygenxml-resources-batch-converter-plugin/addon.xml</String>
+                            <String>file:/C:/Users/alex_jitianu/Downloads/com-oxygenxml-git/addon.xml</String>
+                            <String>file:/C:/Users/alex_jitianu/Downloads/com-oxygenxml-dita-references(1)/addon.xml</String>
+                            <String>file:/C:/Users/alex_jitianu/Downloads/com-oxygenxml-dita-references(3)/addon.xml</String>
+                        </String-array>
+                    </entry>
+                    <entry>
                         <String>key.extensions.update.site.option.pane</String>
-                        <Boolean>false</Boolean>
+                        <Boolean>true</Boolean>
                     </entry>
                     <entry>
                         <String>profiling.conditions</String>
