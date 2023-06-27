@@ -5,6 +5,7 @@
   <body>
     <p>
       <ul id="ul_sfv_vrg_2g">
+        <li>A new starting step</li>
         <li>To delete a message, select it and then press the <term>Delete</term> key.</li>
         <li>To delete more messages, select them by pressing and holding the <term>Shift</term> key.
           Then Release the <term>Shift</term> key and select <term>Delete Messages</term>.</li>
