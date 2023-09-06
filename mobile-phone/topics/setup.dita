@@ -3,5 +3,7 @@
 <topic id="setup">
   <title>Phone Setup</title>
   <shortdesc>Basic phone setup test word.</shortdesc>
-  <body/>
+  <body>
+    <p>asdasda</p>
+  </body>
 </topic>
