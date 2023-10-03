@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_l4w_prg_2g">
-  <title>Deleting one or more email messages Alex Remote</title>
+  <title>Deleting an email</title>
   <body>
     <p>
       <ul id="ul_sfv_vrg_2g">
-        <li>A new starting step</li>
-        <li>A secon d step</li>
         <li>To delete a message, select it and then press the <term>Delete</term> key.</li>
         <li>To delete more messages, select them by pressing and holding the <term>Shift</term> key.
           Then Release the <term>Shift</term> key and select <term>Delete Messages</term>.</li>
