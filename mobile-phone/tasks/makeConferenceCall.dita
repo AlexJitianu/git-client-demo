@@ -20,6 +20,9 @@
                     the first participant in put on hold.</cmd>
             </step>
             <step>
+                <cmd>Anew step in the procedure.</cmd>
+            </step>
+            <step>
                 <cmd>Type the participant phone number or search for in contacts.</cmd>
             </step>
             <step>

@@ -18,6 +18,9 @@
                     select <term>New account</term> and then select POP3/IMAP.</cmd>
             </step>
             <step>
+                <cmd>Another step.</cmd>
+            </step>
+            <step>
                 <cmd>Type your email address and password and then press <term>Next</term>. </cmd>
             </step>
             <step>
