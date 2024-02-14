@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+
+  <topic id="mobileview_FAQ"> 
+	 <title>Frequently Asked Questions</title> 
+  	<shortdesc>Answers to your frequently asked questions. </shortdesc> 
+	 <body> 
+	 	<section> 
+	 		<title>How do I change my password?</title> 
+	 		<p>You can change your password after you log on by following this procedure.</p>
+	 		<p>
+				<ol id="ol_jdh_sz2_yyb">
+					<li id="li_kdh_sz2_yyb">Select the <uicontrol>Account</uicontrol> button in the
+						top right hand corner.</li>
+					<li id="li_x22_tz2_yyb">Select the <uicontrol>Settings</uicontrol> option.</li>
+					<li id="li_knn_tz2_yyb">In the Settings tab, click the <uicontrol>Change
+							Password</uicontrol> button.</li>
+					<li id="li_xj5_tz2_yyb">In the resulting dialog box, enter your old password,
+						enter your new password twice, and click <uicontrol>OK</uicontrol>.</li>
+				</ol>
+			</p>
+	 	</section>
+
+	 	<section> 
+	 		<title>Can I create a custom data view?</title> 
+	 		<p>Yes. You can create custom data 
+	 			views that provide analytics specific to the needs of your project in the <uicontrol>Customize Views</uicontrol> page. 
+	 			You can analyze the tasks, targets, and clusters associated with your project.</p> 
+	 	</section>
+	 	
+	 	<section> 
+	 		<title>How do I generate a custom query?</title> 
+	 		<p>You can generate customized queries on the tasks, clusters, and targets in your system for
+				investigation or maintenance purposes.</p>
+	 		<p>Within the <uicontrol>Customize Views</uicontrol> tab, use the filters in the
+					<uicontrol>Query Pane</uicontrol> to set up your query. Click on a filter
+				heading to turn it on or off and click the <uicontrol>Generate</uicontrol> button to
+				run your data analysis.</p>
+	 	</section> 
+	 </body> 
+  </topic> 
+ 

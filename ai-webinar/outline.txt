@@ -1,0 +1,23 @@
+Over the past few months, the introduction of OpenAI's ChatGPT has opened up a plethora of exciting opportunities for leveraging AI in technical content creation. In this presentation, we will delve into how AI can transform content creation and explore the Oxygen AI Positron add-on as an invaluable writing companion.
+
+ 
+
+During this 1-hour live webinar, we will cover the following topics:
+
+ 
+
+1. Demonstrating various scenarios and workflows made possible by the Oxygen AI Positron Assistant.
+2. Exploring the wide range of available actions and showcasing how these actions can be invoked, refined, and previewed using the visual diff feature to easily understand the document changes.
+3. Showcasing how users can define and share their own AI processing, allowing for greater customization and flexibility. 
+4. Guiding participants on how to improve the AI's understanding and accuracy by providing a collection of examples in the editing area, helping the AI to consistently provide the correct answers.
+5. Introducing Oxygen AI Positron's availability in the Web Author platform.
+
+
+
+
+Script 
+
+shortdescs are the most difficult to write
+indexing engine, AI-powered search will use it. Clear, engaging.
+
+https://www.linkedin.com/posts/heretto_ai-generativeai-structuredcontent-ugcPost-7115715311105949696-ZeDM/?utm_source=share&utm_medium=member_ios

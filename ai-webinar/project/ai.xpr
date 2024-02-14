@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qai.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.oxygen.positron.plugin.actions.folder</String>
+                        <String>${pd}/custom-actions</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.oxygen.positron.plugin.load.default.actions</String>
+                        <String>true</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.oxygen.positron.plugin.positron.address</String>
+                        <String>https://aipositron.oxygenxml.com</String>
+                    </entry>
+                    <entry>
+                        <String>Positron_addon_preferences_page</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>additional.frameworks.directories</String>
+                        <String-array>
+                            <String>${pd}/frameworks/dita-ext/</String>
+                        </String-array>
+                    </entry>
+                    <entry>
+                        <String>key.document.templates.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.document.type.custom.locations.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>user.custom.templates.directories</String>
+                        <String-array>
+                            <String>${pd}/template</String>
+                        </String-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="ai.xpr">
+        <folder name="schematron">
+            <file name="schematron/1/question.xml"/>
+            <file name="schematron/2/words.xml"/>
+        </folder>
+        <folder path="."/>
+    </projectTree>
+</project>

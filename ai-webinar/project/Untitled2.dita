@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_h4d_pgp_dzb">
+    <title></title>
+    <body>
+        <p>File > Close </p>
+        <p>Edit > Copy</p>
+        <ul id="ul-fea40659-4ed1-4d4b-8e5a-f5012b9ebe6e">
+            <li><b>Close</b> - to close a file</li>
+            <li><b>Copy</b> - to copy content</li>
+        </ul>
+    </body>
+</topic>

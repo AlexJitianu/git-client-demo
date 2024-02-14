@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="watch-me">
+    <title>UIControl</title>
+    <body>
+        <codeblock id="codeblock_ent_lrk_2zb">Add DITA menu item markup to the fragement: ${selection}
+
+Add DITA menu item markup (uicontrol, menucascade) to the fragment: ${selection}
+
+</codeblock>
+        <section id="section-51b41afd-e8bb-4d1a-bafe-849486bfaab7">
+            <title>Before</title>
+            <p>File > Open</p>
+            <p>Edit > Paste</p>
+        </section>
+        <section id="section-4d0e0b6e-04d7-4cb1-9722-3dbb19c54198">
+            <title>After</title>
+            <p><menucascade>
+                    <uicontrol>File</uicontrol>
+                    <uicontrol>Open</uicontrol>
+                </menucascade></p>
+        </section>
+    </body>
+</topic>

@@ -1,0 +1,12 @@
+[ {
+  "id" : "test",
+  "title" : "test",
+  "input_type" : "markup",
+  "type" : "replace-selection-with-fragment",
+  "description" : "test",
+  "context" : "${contextInfo} add dita menu item markup",
+  "examples" : [ {
+    "prompt" : "selecting <uicontrol>Report Problem</uicontrol> from the Help>Support menu. Additional details       are available by going to the <menucascade>         <uicontrol>Help</uicontrol>",
+    "completion" : "selecting <uicontrol>Report Problem</uicontrol> from the <menucascade>         <uicontrol>Help</uicontrol>         <uicontrol>Support</uicontrol>       </menucascade> menu. Additional details are available by going to the <menucascade>         <uicontrol>Help</uicontrol>"
+  } ]
+} ]

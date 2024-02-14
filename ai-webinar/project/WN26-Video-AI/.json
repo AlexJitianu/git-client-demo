@@ -1,0 +1,8 @@
+[
+    {
+        "id": "action.id",
+        "title": "Improve Grammar",
+        "type": "replace-selection-with-fragment",
+        "context": "Improve grammar in the following XML content:"
+    }
+]

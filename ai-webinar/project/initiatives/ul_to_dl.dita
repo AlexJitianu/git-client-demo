@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ul_to_dl">
+    <title>Ul to DL</title>
+    <body>
+        <p><ul>
+            <li><b>Bytes returned</b>
+                    <p>The number of bytes of data returned. </p></li>
+            <li>
+                    <b>Bytes available</b>
+                    <p>The number of bytes of data available to be returned.</p></li>
+            <li><b>Handle</b>
+                <p>The returned handle value</p>
+            </li>
+        </ul></p>
+    </body>
+</topic>

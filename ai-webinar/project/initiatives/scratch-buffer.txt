@@ -1,0 +1,2 @@
+${persona.audience.novice} => You write for a beginer audience. Use simple terms.
+${persona.audience.expert} => You write for an expert audience. Use advanced terminology.

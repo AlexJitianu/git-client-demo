@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="gardenPreparation" xml:lang="zh-CN">
+    <title>花园准备</title>
+    <taskbody>
+        <context id="context_pvk_yqw_zxb">
+            <p>了解球茎在自然环境下生长的条件，有助于理解它们在栽培中的需求<indexterm>general<indexterm>care<indexterm>cultivation</indexterm></indexterm></indexterm>，但这并不是全部。当植物远离它们的故乡，也许被安置在室内的盆中时，它们可能会对不同的土壤、温度、湿度等条件做出反应，这些条件可能与它们在野外所受到的条件不同。<indexterm>tasks<indexterm>preparation</indexterm></indexterm></p>
+        </context>
+        <steps id="steps_qvk_yqw_zxb">
+            <step>
+                <cmd>小心地处理球茎。任何有疤痕或穿孔的球茎都更容易腐烂或受到侵害。<indexterm>general<indexterm>planting</indexterm></indexterm></cmd>
+            </step>
+            <step>
+                <cmd>确保<b>土壤</b>是<i>适当的</i>。这可能很难实现，但通常介于沙子和黏土之间，并含有大量有机物质的土壤是大多数植物所需要的。</cmd>
+            </step>
+            <step>
+                <cmd>所有植物都需要<b>浇水</b>，但您还应该提供良好的排水。在休眠期间球茎周围水分过多尤其有害。</cmd>
+            </step>
+            <step>
+                <cmd>植物对肥沃的土壤有反应，但<b>肥料</b>不能随意使用。不当的用量可能会弊大于利。</cmd>
+            </step>
+            <step>
+                <cmd>在处理<b>昆虫</b>和<b>疾病</b>时，正确诊断问题是首要的。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

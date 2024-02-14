@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-model href="list.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<topic id="Untitled">
+    <title>Artificial Intelligence</title>
+    <body>
+        <p>Examples of Schematron with AI: </p>
+        <p>
+               - Is active/passive voice used in the description?
+               - Is this written according to the styleguide?
+               - Does the topic answers to this "question"?
+               - Is spelling and grammar correct?
+        </p>
+    </body>
+</topic>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-model href="activeVoice.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<topic id="Untitled">
+    <title>Active Voice</title>
+    <shortdesc>The cake was baked by Sarah.</shortdesc>
+    <body>
+        <p/>
+    </body>
+</topic>

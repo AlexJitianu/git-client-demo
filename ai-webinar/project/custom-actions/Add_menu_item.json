@@ -1,0 +1,11 @@
+[ {
+  "id" : "add.menu.item",
+  "title" : "Add menu item",
+  "input_type" : "markup",
+  "type" : "replace-selection-with-fragment",
+  "context" : "${contextInfo} Add DITA menu item markup to the fragement",
+  "examples" : [ {
+    "prompt" : "<p>File > Open</p>",
+    "completion" : "<p><menucascade>                     <uicontrol>File</uicontrol>                     <uicontrol>Open</uicontrol>                 </menucascade></p>"
+  } ]
+} ]

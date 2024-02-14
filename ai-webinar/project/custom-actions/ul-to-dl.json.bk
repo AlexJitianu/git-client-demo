@@ -1,0 +1,10 @@
+[
+    {
+        "id": "ul.to.dl",
+        "description": "Convert unordered lists to definition lists.",
+        "title": "ul=>dl",
+        "type": "replace-selection-with-fragment",
+        "input-type": "markup",
+        "context": "Convert DITA unordered lists to DITA definition lists. Make a dt out of the first bold element. Wrap each dt, dd pair into a dlentry. "
+    }
+]

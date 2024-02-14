@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="concurrent-editing">
+  <title>Concurrent Editing</title>
+  <body>
+    <p id="p_t2p_dgk_54b"><i>Oxygen XML Web Author</i> offers a feature that provides the ability
+      for authoring teams to edit and review content concurrently. You can share your editing
+      session and then send a link to other collaborators and then you and your colleagues can edit
+      and review the same document simultaneously.</p>
+    <p id="p_u2p_dgk_54b">To initiate a shared editing session, use the <b>Share Session</b> toolbar
+      button. This opens the first window of the <b>Share Editing Session</b> dialog box. It
+      provides some information, and after clicking <b>Share</b>, the second window of the dialog
+      box is displayed.</p>
+    <p id="p_v2p_dgk_54b">
+      <fig id="fig_pv5_5h5_rnb">
+        <title>Share Editing Session Dialog Box (Second Window)</title>
+        <image href="wa-share-session-dialog.png"/>
+      </fig>
+    </p>
+    <note id="note_gjk_byf_yyb" type="tip">If you encounter connection issues, submit a ticket by
+      selecting <uicontrol>Report Problem</uicontrol> from the Help>Support menu. Additional details
+      are available by going to the Help>FAQ menu.</note>
+    <p id="p_w2p_dgk_54b">This is where you can retrieve a link that you can send to other
+      collaborators. While the session is shared, other users can join and each user can see the
+      changes made by others, as well as their own modifications, in real time.</p>
+    <p id="p_y2p_dgk_54b">The person who originally shared the session is the only one who can save
+      the document and the concurrent editing session continues as long as that person keeps the
+      document open.<note id="note_z2p_dgk_54b">The <b>Share Session</b> action is only present for
+        some of the built-in connectors (Git and WebDAV).</note></p>
+  </body>
+</topic>

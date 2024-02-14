@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_y33_xvz_qxb">
+    <title></title>
+    <body>
+        <p>We are excited to announce a new release for the <b>Oxygen AI Positron Assistant</b>!
+            Version 0.9.2 comes with exciting new features like chat, preview changes, AI-based
+            quick fixes, AI-based XPath extension functions, and new AI actions that allow grammar
+            correction, rewrite content and to check how your content responds to specific
+            questions.</p>
+        <p>The <b>AI Positron Chat</b> side view provides a better user experience and more control
+            when invoking AI actions, allowing to see the response and preview its impact on the
+            document using an action that triggers the visual XML-aware comparison. You may decide
+            also to further refine the responses by continuing the discussion with the <b>AI
+                Positron</b> platform in the chat view.</p>
+        <p>In a chat message you may use editor variables that expand to the selected content or the
+            entire document, these allow to define flexible prompts and the support to save
+            favorites enables you to store and easily reuse the prompts you find useful for your
+            activity.</p>
+        <p>Along with the preview action for the AI responses, you may also choose the insert or
+            copy to clipboard actions associated with each response.</p>
+        <p>Version 0.9.2 of the plugin improves the existing actions and contributes new AI actions,
+            such as:</p>
+        <ul id="ul-c635c65b-0c57-4866-8d14-89ee1fdce476">
+            <li><b>Correct Grammar</b> - Correct the grammar and spelling of the selected
+                content.</li>
+            <li><b>Use Active Voice</b> - Convert the selected content from passive voice to active
+                voice.</li>
+            <li><b>Generate Questions</b> - Find out possible questions that the selected content or
+                the entire document responds to.</li>
+            <li><b>Answer Questions</b> - See how AI will respond to your questions taking into
+                account either the selected content or the entire document.</li>
+        </ul>
+        <p>If an error message provides a good description of the identified problem and eventually
+            a hint on how to fix it, which is typically the case with Schematron errors, then you
+            may take advantage of the a quick-fix action called <b>AI Positron Fix</b> that tries to
+            find a solution to that validation problem. This action can be triggered from the
+            contextual menu for the validation problems that are displayed in the application
+                <i>Problems</i> list.</p>
+        <p>The add-on now also contributes two <b>XPath extension functions</b> which can be used
+            from XSLT stylesheets, XQuery scripts, and from Schematron schemas to process content or
+            to perform validation checks on existing content. Custom XML refactoring operations
+            based on XSLT or XQuery update can also take advantage of these AI functions, so you can
+            apply also batch processing on multiple documents.</p>
+        <p>For additional information on the <b>Oxygen AI Positron Assistant</b> plugin, including
+            the installation instructions, you can check out this article on the Oxygen XML
+            Blog:</p>
+        <p><xref href="https://blog.oxygenxml.com/topics/ai_positron.html" format="html"
+                scope="external">https://blog.oxygenxml.com/topics/ai_positron.html</xref></p>
+        <p>We want to remind you that we plan to frequently release new features and improvements,
+            so please let us know what you think of the current version and stay tuned for exciting
+            new versions of this plugin!</p>
+        <p>Dear Tom,</p>
+        <p>I understand your point about Q&amp;A type of posts. I also noticed that you are
+            interested in AI and how that impacts technical documentation, and that is why I asked
+            Alin to get in touch with you.</p>
+        <p>I think we are in a very good position right now because the AI-generated content is not
+            always suitable to be sent directly to end-users, but it is a good tool for writers who
+            can then review and possibly edit the generated content further.</p>
+        <p>We had a basic initial release of the Oxygen AI Positron Assistant plugin before ConVEx
+            (former DITA North America), and we presented it there in a test kitchen session that
+            received a lot of interest and feedback. However, we made some very important changes in
+            our latest release earlier this week to provide visual diff to allow writers to see what
+            changed, moving from one-shot actions to actions that initiate a chat session, thus
+            allowing users to fine-tune the result if needed. Users can also ask to process the
+            document or the selection in the way that they want just by starting a new chat and
+            using editor variables that expand to the document and selection, respectively, and be
+            able to reuse those prompts by saving them as favorites.</p>
+    </body>
+</topic>

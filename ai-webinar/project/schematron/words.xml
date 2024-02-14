@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-model href="words.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<topic id="Untitled">
+    <title>Artificial Intelligence</title>
+    <shortdesc>Oxygen XML Developer is the industry-leading XML development tool that includes
+        everything you need for designing XML schemas and transformation pipelines. It focuses on
+        XML source editing, schema design, and the XSLT and XQuery support is enhanced with powerful
+        debuggers and performance profilers. Oxygen XML Developer provides a simple and intelligent
+        interface that makes XML development easy and effective.</shortdesc>
+    <body>
+
+    </body>
+</topic>

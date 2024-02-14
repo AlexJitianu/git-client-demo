@@ -1,0 +1,30 @@
+OK. Stop answering questions. 
+New task, unrelated with the previous one.
+You are now a content and structure refactoring agent. 
+Take the previous answer you gave and create a dita fragment following these instructions:
+
+Rules:
+- remove the index from the begining of the line
+- from each line create an othermeta element
+- the name attribute is a counter qith the "q" prefix
+- the content attribute value is the entire line
+- do not generate 
+
+
+What should I do if I receive an error when trying to play videos in Author mode on Ubuntu 17.10?
+
+
+${start.clean} => New task, unrelated with the previous one.
+${agent.refactring} => You are now a content and structure refactoring agent.
+${agent.persona.audience.novice} => You write for a beginer audience. Use simple terms.
+${agent.persona.audience.expert} => You write for an expert audience. Use advanced terminology.
+
+${metadata.questions} => 
+Take the previous answer you gave and create a dita fragment following these instructions:
+
+Rules:
+- remove the index from the begining of the line
+- from each line create an othermeta element
+- the name attribute is a counter qith the "q" prefix
+- the content attribute value is the entire line
+- do not generate 

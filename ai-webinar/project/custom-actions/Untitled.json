@@ -1,0 +1,15 @@
+[ {
+  "id" : "add.approved.terms",
+  "title" : "Add approved terms",
+  "input-type" : "markup",
+  "type" : "insert-schema-aware-fragment",
+  "description" : "Use this action to insert index terms from the approved list",
+  "context" : "${contextInfo} Read through the file and add index terms from the list below only if they are applicable on the text. Here is the list of approved index terms:\nengine\nrepair\nwarranty\nflower",
+  "examples" : [ 
+  {
+    "prompt" : "Engine repairs require skilled expertise to diagnose and fix underlying issues efficiently. Regular maintenance and timely engine repairs can extend the lifespan and enhance the performance of your vehicle.",
+    "completion" : "<prolog><metadata><keywords><indexterm>engine</indexterm><indexterm>repair</indexterm></keywords></metadata></prolog>"
+  } 
+  
+  ]
+} ]

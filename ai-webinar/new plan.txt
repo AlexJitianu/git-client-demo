@@ -1,0 +1,32 @@
+Positron actions slide 1
+-shortdesc
+	-- generate shortdesc
+	-- insert
+	-- change parameters, regenerate
+	-- preview, insert
+-generate index term
+-corect grammar
+
+
+Positron Actions slide 2
+- Answer questions
+	--“How can I add media resources to my DITA documents?”
+	-- "How can I make a mojito?"
+- generate questions
+	-- generate a set
+	-- convert to metadata and insert (use prompt)
+	-- paste  as xml 
+	-- remove ubuntu note
+	-- answer question ubuntu
+	
+Workflows
+"The idea is that no matter how much we refine the actions, they will not give you what you want 100% of the time. There is the 'temperature'/creativeness setting. So each action is actually an initative, a conversation."
+- invoke Improve readability
+	- refine  "Write for a beginner audience. Use simple terms."
+	- edit:   "Write for a beginner audience. Use simple terms and make a joke to break the ice."
+	- add to favorites: "audience.novice"
+
+
+	
+
+	

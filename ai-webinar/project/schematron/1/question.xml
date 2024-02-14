@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-model href="question.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<topic id="Untitled">
+    <title>Artificial Intelligence</title>
+    <body>
+        <p id="openai">OpenAI has developed algorithms that use reinforcement learning and deep learning to
+            solve problems in robotics, natural language processing, and computer vision. </p>
+        <p/>
+    </body>
+</topic>

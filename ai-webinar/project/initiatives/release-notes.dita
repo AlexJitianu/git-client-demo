@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="release_notes">
+    <title>Release notes</title>
+    <body>
+        <section id="section-3cbdb77d-c466-4809-9d6a-1faad928739a">
+            <title>Issue titles</title>
+            <p>As a user I want to make a preview with the AI response from chat</p>
+            <p>Make AI Positron platform compatible with a custom Microsoft Azure OpenAI service</p>
+            <p>Add an action for presenting usage-status</p>
+            <p>As a user, I want to switch between chat branches, so I can inspect and continue a
+                flow </p>
+        </section>
+        <section id="section-6d70820c-ede1-4a5e-9969-a1d8cb5f4bc6">
+            <title>Release notes</title>
+            <p>Oxygen AI Positron 0.9.4 release. Oxygen AI Positron service uses the OpenAI platform
+                to help technical documentation writers with features like document generation,
+                change suggestions, and translation capabilities. The service is accessed from
+                within Oxygen XML Editor though the <xref
+                    href="https://www.oxygenxml.com/doc/help.php?product=editor&amp;platform=standalone&amp;pageId=ai_positron"
+                    format="html" scope="external">AI Positron Assistant add-on</xref>.</p>
+            <p/>
+        </section>
+    </body>
+</topic>
