@@ -17,6 +17,9 @@
                 <cmd>Press the <term>Call</term> key.</cmd>
             </step>
             <step>
+                <cmd>I feel we should write somehting here.</cmd>
+            </step>
+            <step>
                 <cmd>To end your call, press the <term>Cancel</term> key.</cmd>
             </step>
         </steps>
