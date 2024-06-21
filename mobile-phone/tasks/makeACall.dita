@@ -20,15 +20,6 @@
                 <cmd>I feel we should write somehting here.</cmd>
             </step>
             <step>
-                <cmd>And another one</cmd>
-            </step>
-            <step>
-                <cmd>And another one</cmd>
-            </step>
-            <step>
-                <cmd>And anotehr one</cmd>
-            </step>
-            <step>
                 <cmd>To end your call, press the <term>Cancel</term> key.</cmd>
             </step>
         </steps>
