@@ -409,6 +409,9 @@
         <folder masterFiles="true" name="Main Files">
             <file name="mobilePhone.ditamap"/>
         </folder>
+        <folder name="resources">
+            <file name="tasks/composeSendEmail.dita"/>
+        </folder>
         <folder path="concepts/"/>
         <folder path="ditaval/"/>
         <folder path="image/"/>
