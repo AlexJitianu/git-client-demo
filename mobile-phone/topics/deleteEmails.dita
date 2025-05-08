@@ -11,6 +11,8 @@
         <li>To delete a saved message, select <term>Menu</term> -> <term>Saved Messages</term>.
           Select the message you would like to delete and then press the <term>Delete</term> key. If
           necessary, delete the message from your message <term>Inbox</term> as well.</li>
+        <li>To permanently delete a message and bypass the <term>Trash</term> folder, select the
+          message and press <term>Shift + Delete</term>. Confirm the action when prompted.</li>
       </ul>
     </p>
   </body>
